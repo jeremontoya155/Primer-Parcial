@@ -1,0 +1,22 @@
+.code-container {
+  margin: 20px auto;
+  width: 80%;
+  height: 400px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  overflow: auto;
+  white-space: pre-wrap;
+  background-color: #0d0a0a;
+  color: aqua;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 10px;
+  align-items: flex-start;
+  text-align: left;
+}
+
+#code {
+  min-height: 100%;
+  width: 100%;
+}
